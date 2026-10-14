@@ -1,4 +1,4 @@
-name = "nautica-worker"
+name = "nauticav1"
 main = "nautica_mod_v9_udpws.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
